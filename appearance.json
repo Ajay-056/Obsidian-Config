@@ -1,0 +1,14 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#7cd05d",
+  "interfaceFontFamily": "",
+  "textFontFamily": "CaskaydiaCove Nerd Font",
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "Notebook Backgrounds",
+    "Daily Note Themes"
+  ],
+  "cssTheme": ""
+}

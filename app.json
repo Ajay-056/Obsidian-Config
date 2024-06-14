@@ -1,0 +1,8 @@
+{
+  "showLineNumber": true,
+  "vimMode": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./attachments",
+  "promptDelete": false
+}
